@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library D:\VisualStudio\testDLLProject\dllTester\x64\Release\dllTester.lib and object D:\VisualStudio\testDLLProject\dllTester\x64\Release\dllTester.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dllTester.vcxproj -> D:\VisualStudio\testDLLProject\dllTester\x64\Release\dllTester.dll
